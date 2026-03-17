@@ -61,11 +61,11 @@ export default function Home() {
                   LinkedIn
                 </a>
                 <a
-                  href="mailto:banana18nt@gmail.com"
+                  href="mailto:t.cnguyen168@gmail.com"
                   className="inline-flex h-8 items-center gap-1.5 rounded-lg border border-border bg-background px-2.5 text-xs font-medium text-primary transition-colors hover:bg-muted"
                 >
                   <Mail className="size-3.5" />
-                  banana18nt@gmail.com
+                  t.cnguyen168@gmail.com
                 </a>
               </div>
             </div>
